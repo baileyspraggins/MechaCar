@@ -18,8 +18,11 @@ its 0.7149.
 A quick summary of the Suspension Coil's PSI is shown below
 
 Mean: 1452
+
 Median: 1500
+
 Variance: 62.29356
+
 Standard Deviation: 7.892627
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not 
@@ -53,7 +56,9 @@ While you can make quite a few analysis using this additional data a good exampl
 The set up of the test is outlined as follows:
 
 Dependent Variable: 0 - 60 time
+
 Independent variables: Top Speed and Manufacturing Costs
 
 Null Hypothesis: The mean 0 - 60 times in all vehicle groups are equal
+
 Alternative Hypothesis: The mean 0 - 60 times in all vehicle groups are different
